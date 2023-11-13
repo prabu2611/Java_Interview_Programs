@@ -1,9 +1,9 @@
 package prabu.javaprograms;
 
-public class Second_Smallest {
+public class Second_Largest {
 	   public static void main(String args[]){
 		      int temp, size;
-		      int array[] = {10, 20, 25, 99, 96, 88};
+		      int array[] = {10,60,25,99,196,98,88};
 		      size = array.length;
 
 		      for(int i = 0; i<size; i++ ){
@@ -16,6 +16,9 @@ public class Second_Smallest {
 		            }
 		         }
 		      }
-		      System.out.println("Second largest number is:: "+array[size-2]);
+		     
+		    	  System.out.println("Second largest number is:: "+array[size-2]);
+			
+		     
 		   }
 		}

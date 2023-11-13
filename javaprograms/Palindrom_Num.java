@@ -5,6 +5,8 @@ public class Palindrom_Num {
 	public static void main(String[] args) {
 		
 		// 151 = 1 + 5 = 15
+		
+		//Malayalam = Malayalam
 
 		int n = 152;
 		int i, j = 0;

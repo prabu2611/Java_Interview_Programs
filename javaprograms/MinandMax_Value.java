@@ -9,7 +9,7 @@ public class MinandMax_Value{
 	    {
 	 
 	        // Initializing array of integers
-	        Integer[] num = { 2, 4, 1, 50, 9 };
+	        Integer[] num = { 2, 4, 1, 88, 9 };
 	 
 	        // using Collections.min() to
 	        // find minimum element
